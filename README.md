@@ -91,7 +91,7 @@ Keamanan
    - Hapus data
 4. Untuk melakukan search terdapat search bar untuk mencari berdasarkan judul. Pencarian dikirim dengan metode GET, dan hasil ditampilkan dalam bentuk filter
 5. Saat tambah/edit, jika entitas memiliki relasi, akan muncul dropdown (misal pilih artist saat buat album)
-6. Data diproses melalui method-method class di privateclass/private dengan koneksi dari privateconfig/db.phpprivate
+6. Data diproses melalui method-method class di class/(namaEntitas) dengan koneksi dari config/db
 
 # Cara Menjalankan
 1. Import database/db_song.sql ke phpMyAdmin atau via MySQL CLI
@@ -99,3 +99,5 @@ Keamanan
 3. Program dapat dijalankan di browser
 
 # Dokumentasi Program
+https://github.com/user-attachments/assets/33cf919f-2228-4605-9036-6530ae86346c
+
